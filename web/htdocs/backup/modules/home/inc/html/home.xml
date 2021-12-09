@@ -1,0 +1,53 @@
+<? switch($type) { 
+	case 'currency-request': ?>
+<currency-response>
+	<userid><?=$userid?></userid>
+	<server><?=$server?></server>
+	<balance><?=$balance?></balance>
+<? if($status!='success'): ?>
+	<reason-code><?=$reasonCode?></reason-code>
+<? if($message): ?>
+	<message><?=htmlentities($message)?></message>
+<? endif // message ?>
+<? endif // status!=success ?>
+</currency-response>
+<?		break; // type==currency-request
+	case 'item-purchase-request': ?>
+<item-purchase-response>
+	<userid><?=$userid?></userid>
+	<server><?=$server?></server>
+	<status><?=$status?></status>
+<? if($status!='success'): ?>
+	<reason-code><?=$reasonCode?></reason-code>
+<? if($message): ?>
+	<message><?=htmlentities($message)?></message>
+<? endif // message ?>
+<? endif // status!=success ?>
+	<new-balance><?=$balance?></new-balance>
+</item-purchase-response>
+<?		break; // type==currency-request
+	case 'login-request': ?>
+<? if($status=='success'): ?>
+<login-response>
+	<status>success</status>
+	<account><?=$account?></account>
+	<userid><?=$userid?></userid>
+	<user-type><?=$userType?></user-type>
+</login-response>
+<? else: ?>
+<login-response>
+	<status>failed</status>
+	<reason-code><?=$reasonCode?></reason-code>
+<? if($message): ?>
+	<message><?=$message?></message>
+<? endif ?>
+</login-response>
+<? endif ?>
+<? 		break; // type==item-purchase-request
+	case 'invalid': // invalid request ?>
+<invalid-request>
+	<status>failed</status>
+	<message>Unknown Request <?=htmlentities($origType)?></message>
+</invalid-request>
+<?		break; // type==invalid
+} // end switch(type) ?>

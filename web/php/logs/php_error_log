@@ -1,0 +1,8 @@
+[24-Dec-2016 23:16:51 Europe/Berlin] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+' in C:\aaTeraServer\web\htdocs\core\connect\database.php:9
+Stack trace:
+#0 C:\aaTeraServer\web\htdocs\core\connect\database.php(9): PDO->__construct('mysql:host=127....', 'root', '')
+#1 C:\aaTeraServer\web\htdocs\core\init.php(3): require('C:\\aaTeraServer...')
+#2 C:\aaTeraServer\web\htdocs\index.php(2): require('C:\\aaTeraServer...')
+#3 {main}
+  thrown in C:\aaTeraServer\web\htdocs\core\connect\database.php on line 9

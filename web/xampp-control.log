@@ -1,0 +1,47 @@
+13:52:59  [main] 	Initializing Control Panel
+13:52:59  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+13:52:59  [main] 	XAMPP Version: 5.6.8
+13:52:59  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+13:52:59  [main] 	Running with Administrator rights - good!
+13:52:59  [main] 	XAMPP Installation Directory: "c:\aateraserveraa\web\"
+13:52:59  [main] 	Checking for prerequisites
+13:53:00  [main] 	All prerequisites found
+13:53:00  [main] 	Initializing Modules
+13:53:00  [main] 	The FileZilla module is disabled
+13:53:00  [main] 	The Mercury module is disabled
+13:53:00  [main] 	Starting Check-Timer
+13:53:00  [main] 	Control Panel Ready
+13:54:59  [main] 	Deinitializing Modules
+13:54:59  [main] 	Deinitializing Control Panel
+
+20:16:14  [main] 	Initializing Control Panel
+20:16:14  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+20:16:14  [main] 	XAMPP Version: 5.6.8
+20:16:14  [main] 	Control Panel Version: 3.2.1  [ Compiled: May 7th 2013 ]
+20:16:14  [main] 	Running with Administrator rights - good!
+20:16:14  [main] 	XAMPP Installation Directory: "c:\aateraserver\web\"
+20:16:14  [main] 	Checking for prerequisites
+20:16:14  [main] 	All prerequisites found
+20:16:14  [main] 	Initializing Modules
+20:16:14  [main] 	The FileZilla module is disabled
+20:16:14  [main] 	The Mercury module is disabled
+20:16:14  [main] 	Starting Check-Timer
+20:16:14  [main] 	Control Panel Ready
+20:16:44  [Apache] 	Attempting to start Apache app...
+20:16:44  [Apache] 	Status change detected: running
+20:17:13  [main] 	Executing "c:\aateraserver\web\"
+20:17:19  [main] 	Executing "services.msc"
+20:17:31  [Apache] 	Attempting to stop Apache (PID: 6336)
+20:17:31  [Apache] 	Attempting to stop Apache (PID: 204)
+20:17:31  [Apache] 	Status change detected: stopped
+20:17:34  [mysql] 	Attempting to start MySQL app...
+20:17:35  [mysql] 	Status change detected: running
+20:17:54  [mysql] 	Attempting to stop MySQL (PID: 3604)
+20:17:54  [mysql] 	Status change detected: stopped
+20:18:07  [Apache] 	Status change detected: running
+20:18:07  [mysql] 	Status change detected: running
+20:18:14  [mysql] 	Status change detected: stopped
+20:18:16  [Apache] 	Status change detected: stopped
+20:33:39  [main] 	Deinitializing Modules
+20:33:39  [main] 	Deinitializing Control Panel
+

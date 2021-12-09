@@ -7,3 +7,6 @@ double click "NeoLauncher.exe" choose language and login
 If you're going to make your server public
 Just replace the ip inside "web\htdocs\server\serverlist" (three of them)
 and edit "WebServerUrl" inside "launcher\neolauncher.ini"
+
+
+To Download Client TERA NAEU-17.3204: SOON

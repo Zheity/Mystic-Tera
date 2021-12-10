@@ -11,8 +11,7 @@ and edit "WebServerUrl" inside "launcher\neolauncher.ini"
 
 
 ## To Download Client TERA NAEU-17.3204
-PART01:
-```
+PART01:```
 https://anonfiles.com/z8zdmateve/TERA_NAEU-1732.part01_rar
 ```
 ```

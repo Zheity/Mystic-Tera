@@ -1,3 +1,4 @@
+## Installation
 Run the program by 1,2,3
 put files inside launcher directory into Tera's Client
 Open website by browser (defaut is "http://127.0.0.1/")
@@ -9,7 +10,7 @@ Just replace the ip inside "web\htdocs\server\serverlist" (three of them)
 and edit "WebServerUrl" inside "launcher\neolauncher.ini"
 
 
-To Download Client TERA NAEU-17.3204
+## To Download Client TERA NAEU-17.3204
 
 PART01: https://anonfiles.com/z8zdmateve/TERA_NAEU-1732.part01_rar
 PART02: https://anonfiles.com/p8a7mctbv0/TERA_NAEU-1732.part02_rar

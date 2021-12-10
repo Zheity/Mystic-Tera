@@ -75,16 +75,55 @@ PART16:
 ```
 https://anonfiles.com/9d02vat3v2/TERA_NAEU-1732.part16_rar
 ```
-PART17: https://anonfiles.com/H9T6t7tbv2/TERA_NAEU-1732.part17_rar
-PART18: https://anonfiles.com/H3kewet7v2/TERA_NAEU-1732.part18_rar
-PART19: https://anonfiles.com/1643x6tdv4/TERA_NAEU-1732.part19_rar
-PART20: https://anonfiles.com/V1C1wet5v6/TERA_NAEU-1732.part20_rar
-PART21: https://anonfiles.com/10o0z0tcv2/TERA_NAEU-1732.part21_rar
-PART22: https://anonfiles.com/V9f40ct6v8/TERA_NAEU-1732.part22_rar
-PART23: https://anonfiles.com/zeH8y5t4vc/TERA_NAEU-1732.part23_rar
-PART24: https://anonfiles.com/ZeP6y2t9v7/TERA_NAEU-1732.part24_rar
-PART25: https://anonfiles.com/D1M81at7v9/TERA_NAEU-1732.part25_rar
-PART26: https://anonfiles.com/r0Bd1btbvf/TERA_NAEU-1732.part26_rar
-PART27: https://anonfiles.com/F4H419tdva/TERA_NAEU-1732.part27_rar
-PART28: https://anonfiles.com/L7hd21t2va/TERA_NAEU-1732.part28_rar
-PART29: https://anonfiles.com/Lbme01t9v5/TERA_NAEU-1732.part29_rar
+PART17: 
+```
+https://anonfiles.com/H9T6t7tbv2/TERA_NAEU-1732.part17_rar
+```
+PART18: 
+```
+https://anonfiles.com/H3kewet7v2/TERA_NAEU-1732.part18_rar
+```
+PART19: 
+```
+https://anonfiles.com/1643x6tdv4/TERA_NAEU-1732.part19_rar
+```
+PART20: 
+```
+https://anonfiles.com/V1C1wet5v6/TERA_NAEU-1732.part20_rar
+```
+PART21: 
+```
+https://anonfiles.com/10o0z0tcv2/TERA_NAEU-1732.part21_rar
+```
+PART22: 
+```
+https://anonfiles.com/V9f40ct6v8/TERA_NAEU-1732.part22_rar
+```
+PART23: 
+```
+https://anonfiles.com/zeH8y5t4vc/TERA_NAEU-1732.part23_rar
+```
+PART24: 
+```
+https://anonfiles.com/ZeP6y2t9v7/TERA_NAEU-1732.part24_rar
+```
+PART25: 
+```
+https://anonfiles.com/D1M81at7v9/TERA_NAEU-1732.part25_rar
+```
+PART26: 
+```
+https://anonfiles.com/r0Bd1btbvf/TERA_NAEU-1732.part26_rar
+```
+PART27: 
+```
+https://anonfiles.com/F4H419tdva/TERA_NAEU-1732.part27_rar
+```
+PART28: 
+```
+https://anonfiles.com/L7hd21t2va/TERA_NAEU-1732.part28_rar
+```
+PART29: 
+```
+https://anonfiles.com/Lbme01t9v5/TERA_NAEU-1732.part29_rar
+```
